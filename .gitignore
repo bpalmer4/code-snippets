@@ -5,6 +5,8 @@ __pycache__/
 
 # jupyter notebooks stuff to be ignored
 .ipynb_checkpoints/
+notebooks/frames/**
+notebooks/images/**
 
 # MacOS stuff to be ignored
 .DS_Store
